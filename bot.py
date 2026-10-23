@@ -11,13 +11,13 @@ from pyrogram import Client
 # ==========================================
 # ⚙️ ڕێکخستنەکان (CONFIGURATIONS)
 # ==========================================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"      # تۆکنی بۆتەکەت لە BotFather وەربگرە
+BOT_TOKEN = "8673929801:AAFTZ0Y99erugl-_wZZFkGj3oa4maYBmIcI"      # تۆکنی بۆتەکەت لە BotFather وەربگرە
 CHANNEL_USERNAME = "dev_y7_krd"         # ئایدی کەناڵ بێ @
 MAIN_ADMIN_ID = 7643191802               # ئایدی سەرەکی خاوەن بۆت
 
 # زانیارییەکانی API Telegram (لە my.telegram.org وەربگرە)
-API_ID = 12345678                       # API ID لێرە دابنێ
-API_HASH = "YOUR_API_HASH_HERE"         # API Hash لێرە دابنێ
+API_ID = 34584240                       # API ID لێرە دابنێ
+API_HASH = "eba4f8333cba5f9697a1d20779d4d6e9"         # API Hash لێرە دابنێ
 
 # داتابەیسی بێچووک لە ناو میمۆری
 allowed_users = {MAIN_ADMIN_ID}
